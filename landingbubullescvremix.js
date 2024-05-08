@@ -255,7 +255,7 @@ else  if (wScroll < $('#competencesTexte').offset().top-160&& statesurface==true
   statesurface=false;
   $('audio').each(function(i){
 
-       $('#ambiance').eq(i).attr({src:'LakeWaveMeditation2.wav'
+       $('#ambiance').eq(i).attr({src:'Lake1.wav'
       });
 
 
